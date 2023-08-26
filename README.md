@@ -1,5 +1,5 @@
 # Website Frontend Developer 
-- HTML 5
-* CSS 3
-+ JQUERY
-+ Can you viev 
+- HTML
+* CSS
++ JavaScript 
++ Can you viev https://zank54.github.io/Website/
